@@ -1,3 +1,6 @@
+# Added this comment line
+# Added a second line
+
 class Quiz
   attr_accessor :questions
 
